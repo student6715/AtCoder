@@ -1,14 +1,14 @@
 # AtCoder Begginer Contest
 
 ## ABC_001-050
-ABC_001_A 入力
-ABC_001_B 条件分岐
-ABC_001_C 条件分岐
-ABC_001_D   
-ABC_002_A
-ABC_002_B
-ABC_002_C
-ABC_002_D
+ABC_001_A, 入力  
+ABC_001_B, 条件分岐  
+ABC_001_C, 条件分岐  
+ABC_001_D,  
+ABC_002_A, 入力  
+ABC_002_B, 文字列  
+ABC_002_C, 数学、三角形の面積  
+ABC_002_D,  
 ABC_003_A
 ABC_003_B
 ABC_003_C
